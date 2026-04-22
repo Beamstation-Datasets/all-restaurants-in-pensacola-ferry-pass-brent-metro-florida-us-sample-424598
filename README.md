@@ -1,6 +1,6 @@
 # All Restaurants in Pensacola-Ferry Pass-Brent (Metro), Florida, US
 
-> Free BeamStation sample export with 71 rows and masked direct-contact fields.
+> Free BeamStation sample export with 61 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `424598` |
 | Location | Pensacola-Ferry Pass-Brent, FL |
 | Category | Restaurants |
-| Full dataset size | 716 records |
-| Free sample size | 71 records (9.92%) |
-| Last export | 2026-04-14T17:53:35.163515+00:00 |
+| Full dataset size | 617 records |
+| Free sample size | 61 records (9.89%) |
+| Last export | 2026-04-21T19:39:15.757753+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-pensacola-ferry-pass-brent-metro-florida-us-sample-424598/releases/download/sample-latest/beamstation_424598_restaurants-us-pensacolaferrypassbrentfl_SAMPLE_DIST.csv) |
 
 ## What is in this sample
