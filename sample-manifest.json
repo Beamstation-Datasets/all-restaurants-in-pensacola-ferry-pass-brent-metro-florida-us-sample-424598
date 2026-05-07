@@ -1,12 +1,12 @@
 {
-  "export_job_id": "f8bf0ff4-0d0a-4597-842d-c7fbde62f69a",
+  "export_job_id": "58df4946-57d6-402e-8a6d-bb6b71212865",
   "id_short": 424598,
-  "published_at": "2026-04-29T07:38:21Z",
+  "published_at": "2026-05-07T19:19:16Z",
   "repo_name": "all-restaurants-in-pensacola-ferry-pass-brent-metro-florida-us-sample-424598",
   "sample_asset_name": "beamstation_424598_restaurants-us-pensacolaferrypassbrentfl_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/424598/beamstation_424598_restaurants-us-pensacolaferrypassbrentfl_SAMPLE_DIST.csv",
-  "sample_records": 44,
-  "sample_sha256": "cf98d95e129990a2b919bc4d031e92f88fd95733f3f416788d1fcc0e2ee61598",
-  "sample_size_bytes": 165346,
-  "total_records": 449
+  "sample_records": 74,
+  "sample_sha256": "8f640f115337ec3ac5475d1fed7a470af56f3770a983640edffe770180513542",
+  "sample_size_bytes": 280488,
+  "total_records": 742
 }
